@@ -10,4 +10,4 @@
   - Singly Linear LL
   - Singly Circular LL
 - Binary Tree (BT)
-- Graph 
+- [Graph](https://www.youtube.com/playlist?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx)
