@@ -51,9 +51,9 @@ table th, table td {
 <tr>
 <td>Cycle detection</td>
 <td>❌</td>
-<td><a href="https://www.youtube.com/watch?v=UPfUFoWjk5w">video</a></td>
+<td><a href="https://www.youtube.com/watch?v=UPfUFoWjk5w">DFS</a></td>
 <td>❌</td>
-<td><a href="https://www.youtube.com/watch?v=GLxfoaZlRqs">video</a></td>
+<td><a href="https://www.youtube.com/watch?v=GLxfoaZlRqs">DFS</a></td>
 </tr>
 
 <tr>
@@ -69,7 +69,7 @@ table th, table td {
 <td>⚪</td>
 <td>⚪</td>
 <td>❌</td>
-<td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">video</a></td>
+<td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">DFS</a></td>
 </tr>
 
 </tbody>
