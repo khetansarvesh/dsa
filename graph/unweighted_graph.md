@@ -129,7 +129,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=hywcrLz1T14&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=10">logic</a> / <a href="https://www.youtube.com/watch?v=aS4DwjqfMfI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=11">code</a></td>
 </tr>
 
 <tr>
@@ -137,7 +137,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=YXVFqphuGLU&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=31">logic /code</a> </td>
 </tr>
 
 <tr>
@@ -145,7 +145,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=53hu28rQN74&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=32">logic</a> / <a href="https://www.youtube.com/watch?v=xGiH8gN9x2g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=33">code</a></td>
 </tr>
 
 <tr>
@@ -153,7 +153,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=J3EVQPX9p7U&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=34">logic</a> / <a href="https://www.youtube.com/watch?v=zENu0f2VG7Y&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=35">code</a></td>
 </tr>
 </tbody>
 </table>
