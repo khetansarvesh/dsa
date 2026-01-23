@@ -28,18 +28,12 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 
 
-| Snake and ladder problem (they don't ask to code) | ❌ | N/A |
 
 
 
+# Template 3 : Shortest Path in Directed / Undirected Unweighted Graphs
+Now we saw above that BFS gives shortest path and hence we will use BFS only to solve such question
 
-
-
-
-
-
-# Template 3 : Backtracking
-| Question | Iterative Solution (BFS) | Recursive Solution (DFS) (preferred) |
-|:--------:|:------------------------:|:------------------------:|
-| Graph colouring problem (they don't ask to code) | ❌ | [video](https://www.youtube.com/watch?v=052VkKhIaQ4) |
-| Hamiltonian cycle (they don't ask to code) | ❌ | [video](https://www.youtube.com/watch?v=dQr4wZCiJJ4) |
+| Question | Iterative Solution (BFS) | Recursive Solution (DFS) |
+|:--------:|:------------------:|:------------------:|
+| Snake and ladder problem | [Logic](https://www.youtube.com/watch?v=8WZA471fV7g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=39) / [Code](https://www.youtube.com/watch?v=N7OhwS_nzhg&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=40) | ❌ |
