@@ -48,7 +48,7 @@ Related Questions :
 <tr>
 <td>SPSP</td>
 <td>❌</td>
-<td>Floyd Warshall Algorithm - [Logic](https://www.youtube.com/watch?v=oNI0rf2P9gE) / [Code](https://www.youtube.com/watch?v=wjv-w6q4ip4)</td>
+<td>Floyd Warshall Algorithm - <a href="https://www.youtube.com/watch?v=oNI0rf2P9gE">Logic</a> / <a href="https://www.youtube.com/watch?v=wjv-w6q4ip4">Code</a></td>
 <td></td>
 <td></td>
 </tr>
