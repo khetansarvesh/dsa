@@ -89,7 +89,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 
 
-# Template 2 : BFS / DFS on Matrix (Matrix as Graph)
+# Template 2 : [BFS / DFS on Matrix (Matrix as Graph)](https://www.youtube.com/watch?v=V5flGFnlulQ&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=28)
 Here it is easier to think in terms of DFS so we will use only that to solve all the questions. But keep in mind that all these questions can be solved using BFS also.
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -110,15 +110,7 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 <tbody>
 
 <tr>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: </td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
-</tr>
-
-<tr>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Flood Fill </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">📌 TEMPLATE:Flood Fill </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
