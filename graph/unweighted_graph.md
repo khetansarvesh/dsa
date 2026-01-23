@@ -57,10 +57,10 @@ Now for a given question both interative approach or recursive appraoch is possi
 </tr>
 <tr>
 <td>Snake and ladder problem</td>
+<td>N/A</td>
+<td>N/A</td>
 <td><a href="https://www.youtube.com/watch?v=8WZA471fV7g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=39">Logic</a> / <a href="https://www.youtube.com/watch?v=N7OhwS_nzhg&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=40">Code</a></td>
 <td>❌</td>
-<td>N/A</td>
-<td>N/A</td>
 </tr>
 </tbody>
 </table>
