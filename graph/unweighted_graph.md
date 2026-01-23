@@ -89,7 +89,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 
 
-# Template 2 : Graph on Matrix
+# Template 2 : BFS / DFS on Matrix (Matrix as Graph)
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -100,13 +100,14 @@ Now for a given question both interative approach or recursive appraoch is possi
 </tr>
 <tr>
 <th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative Algorithm</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive Algorithm</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative Algorithm</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative (BFS) Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive (DFS) Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative (BFS) Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive (DFS) Algorithm</th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: </td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
@@ -114,10 +115,43 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
 </tr>
+
 <tr>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Flood Fill </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+</tr>
+
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Steps by Knight </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+</tr>
+
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳#Islands </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+</tr>
+
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Rotten Oranges </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+</tr>
+
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Greek Village and Wells </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 </tr>
