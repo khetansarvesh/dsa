@@ -78,8 +78,33 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 # Template 2 : Graph on Matrix
 
-
-
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Question</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 2</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 3</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 4</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: </td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"></td>
+</tr>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+</tr>
+</tbody>
+</table>
 
 
 
