@@ -19,9 +19,9 @@
 </tr>
 <tr>
 <th></th>
-<th>Iterative Algorithm</th>
+<th>Iterative (Greedy) Algorithm</th>
 <th>Recursive (DP) Algorithm</th>
-<th>Iterative Algorithm</th>
+<th>Iterative (Greedy) Algorithm</th>
 <th>Recursive (DP) Algorithm</th>
 </tr>
 </thead>
