@@ -134,14 +134,6 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 </tr>
 
 <tr>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Rotten Oranges </td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=53hu28rQN74&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=32">logic</a> / <a href="https://www.youtube.com/watch?v=xGiH8gN9x2g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=33">code</a></td>
-</tr>
-
-<tr>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Greek Village and Wells </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
@@ -213,6 +205,14 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=hywcrLz1T14&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=10">logic</a> / <a href="https://www.youtube.com/watch?v=aS4DwjqfMfI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=11">code</a></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+</tr>
+
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Rotten Oranges </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=53hu28rQN74&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=32">logic</a> / <a href="https://www.youtube.com/watch?v=xGiH8gN9x2g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=33">code</a></td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 </tr>
 
