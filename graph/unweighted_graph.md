@@ -242,19 +242,11 @@ Here we cannot use DFS since only BFS gives SSSP.
 </thead>
 <tbody>
 <tr>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: SSSP</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: Rotten Oranges</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS gives SSSP</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS</td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
-
-<tr>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Rotten Oranges </td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=53hu28rQN74&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=32">logic</a> / <a href="https://www.youtube.com/watch?v=xGiH8gN9x2g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=33">code</a></td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-</tr>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
 
 </tbody>
 </table>
