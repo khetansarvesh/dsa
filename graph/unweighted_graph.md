@@ -69,7 +69,7 @@
 Now for a given question both interative approach or recursive appraoch is possible (as shown for few question above) but in most cases thinking about recursive approach is easy compared to iterative approach. Hence we should always try to solve using recursion.
 
 <br><br><br>
-
+<br><br><br>
 
 
 
@@ -127,6 +127,7 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 </tbody>
 </table>
 
+<br><br><br>
 <br><br><br>
 
 
@@ -195,6 +196,7 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 </table>
 Here we cannot use DFS since only BFS gives SSSP.
 
+<br><br><br>
 <br><br><br>
 
 
