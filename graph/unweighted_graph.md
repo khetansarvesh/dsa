@@ -125,14 +125,6 @@ Now for a given question both interative approach or recursive appraoch is possi
 </tr>
 
 <tr>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Steps by Knight </td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=hywcrLz1T14&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=10">logic</a> / <a href="https://www.youtube.com/watch?v=aS4DwjqfMfI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=11">code</a></td>
-</tr>
-
-<tr>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳#Islands </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
@@ -205,6 +197,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
+
 </tr>
 <tr>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ Snake and ladder problem</td>
@@ -213,5 +206,14 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=8WZA471fV7g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=39">Logic</a> / <a href="https://www.youtube.com/watch?v=N7OhwS_nzhg&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=40">Code</a></td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 </tr>
+
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Steps by Knight </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=hywcrLz1T14&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=10">logic</a> / <a href="https://www.youtube.com/watch?v=aS4DwjqfMfI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=11">code</a></td>
+</tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+
 </tbody>
 </table>
