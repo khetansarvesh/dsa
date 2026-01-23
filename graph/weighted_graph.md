@@ -31,7 +31,7 @@
 <td>
 ❌ -ve edges : (Greedy) DIJKSTRA Algorithm</a> - <a href="https://www.youtube.com/watch?v=XB4MIexjvY0">Logic</a> / <a href="https://www.youtube.com/watch?v=wjxCG6dOwcY&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=9"> Code </a>
 <hr>
-✅ -ve edges : (Iterative DP) Bellman Ford Algorithm - <a href="https://www.youtube.com/watch?v=FtN3BYH2Zes">Logic</a> / <a href="https://www.youtube.com/watch?v=RiWE52X5wdQ&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=10"> Code </a>
+✅ -ve edges : (Iterative DP) Bellman Ford Algorithm - <a href="https://www.youtube.com/watch?v=FtN3BYH2Zes">Logic</a> / <a href="https://www.youtube.com/watch?v=3rFHlbJ7qKc"> Code </a>
 </td>
 <td>❌</td>
 <td><a >DIJKSTRA Algorithm</a><hr><a>Bellman Ford Algorithm</a> </td>
