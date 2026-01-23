@@ -22,8 +22,8 @@
 <tbody>
 <tr>
 <td>Traversal / Searching</td>
-<td>BFS -- <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code (uses queues)</td>
-<td>DFS -- <a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code (uses stacks)</td>
+<td>BFS -- <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code </td>
+<td>DFS -- <a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code </td>
 <td>BFS</td>
 <td>DFS</td>
 </tr>
@@ -57,10 +57,10 @@
 
 <tr>
 <td>Topological sort</td>
+<td></td>
+<td></td>
 <td><a href="https://www.youtube.com/watch?v=XMiIk1B0v-w&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8">Kahn's Algorithm</a></td>
 <td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">video</a></td>
-<td></td>
-<td></td>
 </tr>
 
 </tbody>
