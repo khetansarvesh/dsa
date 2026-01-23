@@ -120,8 +120,8 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Flood Fill </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=ExyjnY_dU1c&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=29">logic</a> / <a href="https://youtu.be/rIxAWaNZ9bo?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&t=1065">code</a></td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=rIxAWaNZ9bo&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=30">Code</a> </td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=ExyjnY_dU1c&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=29">logic</a> / <a href="https://www.youtube.com/watch?v=rIxAWaNZ9bo&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=30">code</a></td>
 </tr>
 
 <tr>
