@@ -60,13 +60,13 @@ table th, table td {
 <td>Find #connected components</td>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=rNQDP92wWFI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=36">logic</a> / <a href="https://www.youtube.com/watch?v=tLZrercDRww&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=37">code</a></td>
-<td>❌</td>
-<td>❌</td>
+<td>⚪</td>
+<td>⚪</td>
 </tr>
 
 <tr>
 <td>Topological sort</td>
-<td>❌</td>
+<td>⚪</td>
 <td>⚪</td>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">video</a></td>
