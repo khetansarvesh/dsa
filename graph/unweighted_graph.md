@@ -90,6 +90,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 
 # Template 2 : BFS / DFS on Matrix (Matrix as Graph)
+Here it is easier to think in terms of DFS so we will use only that to solve all the questions. But keep in mind that all these questions can be solved using BFS also.
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -217,3 +218,4 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 </tbody>
 </table>
+Here we cannot use DFS since only BFS gives SSSP.
