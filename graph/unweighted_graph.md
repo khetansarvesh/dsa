@@ -128,7 +128,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Steps by Knight </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 </tr>
 
@@ -136,7 +136,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳#Islands </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 </tr>
 
@@ -144,7 +144,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Rotten Oranges </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 </tr>
 
@@ -152,7 +152,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Greek Village and Wells </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></td>
 </tr>
 </tbody>
