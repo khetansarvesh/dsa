@@ -35,8 +35,8 @@
 <td>Has path or not</td>
 <td><a href="https://youtu.be/ZwGC60Ao6bQ?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&t=1309">video</a></td>
 <td><a href="https://www.youtube.com/watch?v=ZwGC60Ao6bQ&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=9">video</a></td>
-<td>N/A</td>
-<td>N/A</td>
+<td>BFS</td>
+<td>DFS</td>
 </tr>
 
 <tr>
@@ -57,8 +57,8 @@
 
 <tr>
 <td>Topological sort</td>
-<td></td>
-<td></td>
+<td>❌</td>
+<td>N/A</td>
 <td><a href="https://www.youtube.com/watch?v=XMiIk1B0v-w&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8">Kahn's Algorithm</a></td>
 <td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">video</a></td>
 </tr>
