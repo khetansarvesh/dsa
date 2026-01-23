@@ -34,9 +34,12 @@ Related Questions :
 <tr>
 <th>Question</th>
 <th colspan="2">Undirected Graph</th>
+<th colspan="2">Directed Graph</th>
 </tr>
 <tr>
 <th></th>
+<th>Iterative Algorithm</th>
+<th>Recursive (DP) Algorithm</th>
 <th>Iterative Algorithm</th>
 <th>Recursive (DP) Algorithm</th>
 </tr>
@@ -46,6 +49,8 @@ Related Questions :
 <td>SPSP</td>
 <td>❌</td>
 <td>Floyd Warshall Algorithm - [Logic](https://www.youtube.com/watch?v=oNI0rf2P9gE) / [Code](https://www.youtube.com/watch?v=wjv-w6q4ip4)</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
