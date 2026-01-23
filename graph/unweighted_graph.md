@@ -20,47 +20,47 @@
 </thead>
 
 <tbody>
-<tr bgcolor="#F0C000">
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd; font-weight: bold;">Traversal / Searching</td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">BFS -- <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code </td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">DFS -- <a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code </td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">BFS</td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">DFS</td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: Traversal / Searching</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS -- <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code </td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">DFS -- <a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code </td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">DFS</td>
 </tr>
 </tbody>
 
 <tbody>
 
-<tr bgcolor="#FFFACD">
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Has path or not</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://youtu.be/ZwGC60Ao6bQ?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&t=1309">BFS</a></td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=ZwGC60Ao6bQ&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=9">DFS</a></td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">BFS</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">DFS</td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ Has path or not</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://youtu.be/ZwGC60Ao6bQ?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&t=1309">BFS</a></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=ZwGC60Ao6bQ&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=9">DFS</a></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">BFS</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">DFS</td>
 </tr>
 
-<tr bgcolor="#FFFACD">
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Cycle detection</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=UPfUFoWjk5w">DFS</a></td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=GLxfoaZlRqs">DFS</a></td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ Cycle detection</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=UPfUFoWjk5w">DFS</a></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=GLxfoaZlRqs">DFS</a></td>
 </tr>
 
-<tr bgcolor="#FFFACD">
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Find #connected components</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=rNQDP92wWFI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=36">logic</a> / <a href="https://www.youtube.com/watch?v=tLZrercDRww&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=37">code</a></td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ Find #connected components</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=rNQDP92wWFI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=36">logic</a> / <a href="https://www.youtube.com/watch?v=tLZrercDRww&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=37">code</a></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 </tr>
 
-<tr bgcolor="#FFFACD">
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Topological sort</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">DFS</a></td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ Topological sort</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">DFS</a></td>
 </tr>
 
 </tbody>
@@ -101,19 +101,19 @@ Now for a given question both interative approach or recursive appraoch is possi
 </tr>
 </thead>
 <tbody>
-<tr bgcolor="#F0C000">
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd; font-weight: bold;">Shortest path</td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">BFS gives shortest path only</td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">BFS</td>
-<td align="center" bgcolor="#F0C000" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: Shortest path</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS gives shortest path only</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">❌</td>
 </tr>
-<tr bgcolor="#FFFACD">
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Snake and ladder problem</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=8WZA471fV7g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=39">Logic</a> / <a href="https://www.youtube.com/watch?v=N7OhwS_nzhg&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=40">Code</a></td>
-<td align="center" bgcolor="#FFFACD" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳ Snake and ladder problem</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=8WZA471fV7g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=39">Logic</a> / <a href="https://www.youtube.com/watch?v=N7OhwS_nzhg&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=40">Code</a></td>
+<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
 </tr>
 </tbody>
 </table>
