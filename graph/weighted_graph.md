@@ -30,8 +30,8 @@
 <td>SSSP</td>
 <td><a href="https://www.youtube.com/watch?v=wjxCG6dOwcY&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=9">DIJKSTRA Algorithm</a> (similar to Prims) (❌ -ve edges)</td>
 <td><a href="https://www.youtube.com/watch?v=RiWE52X5wdQ&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=10">Bellman Ford Algorithm</a> (✅ -ve edges)</td>
-<td><a href="https://www.youtube.com/watch?v=wjxCG6dOwcY&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=9">DIJKSTRA Algorithm</a> (similar to Prims) (❌ -ve edges)</td>
-<td><a href="https://www.youtube.com/watch?v=RiWE52X5wdQ&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=10">Bellman Ford Algorithm</a> (✅ -ve edges)</td>
+<td><a >DIJKSTRA Algorithm</a> </td>
+<td><a >Bellman Ford Algorithm</a> </td>
 </tr>
 </tbody>
 </table>
