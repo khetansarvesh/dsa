@@ -1,5 +1,14 @@
 # Template 1 : Traversal / Searching
 
+<style>
+table {
+  text-align: center;
+}
+table th, table td {
+  text-align: center;
+}
+</style>
+
 <table>
 
 
@@ -58,7 +67,7 @@
 <tr>
 <td>Topological sort</td>
 <td>❌</td>
-<td>N/A</td>
+<td>➖</td>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">video</a></td>
 </tr>
@@ -110,7 +119,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 </tr>
 <tr>
 <td>Snake and ladder problem</td>
-<td>N/A</td>
+<td>➖</td>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=8WZA471fV7g&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=39">Logic</a> / <a href="https://www.youtube.com/watch?v=N7OhwS_nzhg&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=40">Code</a></td>
 <td>❌</td>
