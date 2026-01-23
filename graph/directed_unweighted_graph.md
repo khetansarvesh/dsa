@@ -15,7 +15,7 @@ Following questions are based on above template just that you need to make some 
 | Shortest path |  |  |
 | Topological sort | ❌ | ❌ |
 | Find SCC | Kosaraju's Algorithm | Targan's Algorithm |
-| Find no of connected components | ❌ | ❌ |
+| Find #connected components | ❌ | ❌ |
 | Graph colouring problem | ❌ | ❌ |
 | Hamiltonian cycle | ❌ | ❌ |
 | Snake and ladder problem (they don't ask to code) | [video]() | ❌ |
