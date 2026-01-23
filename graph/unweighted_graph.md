@@ -76,16 +76,34 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Template 2 : Graph on Matrix
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr>
 <th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Question</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 2</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 3</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 4</th>
-<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Column 5</th>
+<th colspan="2" align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Undirected Graph</th>
+<th colspan="2" align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Directed Graph</th>
+</tr>
+<tr>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive Algorithm</th>
 </tr>
 </thead>
 <tbody>
@@ -105,6 +123,27 @@ Now for a given question both interative approach or recursive appraoch is possi
 </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
