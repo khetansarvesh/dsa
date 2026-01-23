@@ -42,6 +42,8 @@
 
 
 Questions Related to Dijkstra's Algorithm : 
+1. Path with Minimum Effort - [Logic](https://www.youtube.com/watch?v=l2phJj0A28Q&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=44) / [Code](https://www.youtube.com/watch?v=Md8XRJBTybc&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=45)
+2. Cheapest Flight within K stops - [Logic](https://www.youtube.com/watch?v=s6ZDQXTyo7I&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=46) / [Code](https://www.youtube.com/watch?v=fsvU58HVXco&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=47)
 
 
 
