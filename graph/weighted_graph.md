@@ -1,0 +1,30 @@
+# Template 1 : Minimum Cost Spanning Tree (MCST)
+
+| Question | Greedy Algorithm |
+|:--------:|:------------------:|
+| MCST | [Prim's Algorithm](https://www.youtube.com/watch?v=kXiqvMykeJA&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8) |
+
+
+
+
+
+# Template 2 : Single Source Shortest Path (SSSP)
+
+| Question | Greedy Algorithm (❌ -ve edges) | DP Algorithm (✅ -ve edges) |
+|:--------:|:------------------:|:------------------:|
+| SSSP | [DIJKSTRA Algorithm](https://www.youtube.com/watch?v=wjxCG6dOwcY&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=9) (similar to Prims) | [Bellman Ford Algorithm](https://www.youtube.com/watch?v=RiWE52X5wdQ&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=10) |
+
+
+Related Questions : 
+
+
+
+
+
+
+
+
+
+
+
+# Template 3 : All Pair Shortest Path (APSP)
