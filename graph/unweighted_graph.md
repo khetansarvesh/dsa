@@ -23,7 +23,7 @@ Now for a given question both interative approach or recursive appraoch is possi
 
 
 
-# Template 2 : Graph on Grids
+# Template 2 : Graph on Matrix
 
 
 
