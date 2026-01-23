@@ -1,6 +1,9 @@
 # Template 1 : Traversal / Searching
 
 <table>
+
+
+
 <thead>
 <tr>
 <th>Question</th>
@@ -15,35 +18,19 @@
 <th>Recursive Algorithm</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td>Traversal / Searching</td>
-<td><a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code (uses queues)</td>
-<td><a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code (uses stacks)</td>
-<td></td>
-<td></td>
+<td>BFS -- <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code (uses queues)</td>
+<td>DFS -- <a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code (uses stacks)</td>
+<td>BFS</td>
+<td>DFS</td>
 </tr>
 </tbody>
-</table>
 
-Following questions are based on above template just that you need to make some changes
-th>
-<table>
-<thead>
-<tr>
-<th>Question</th>
-<th colspan="2">Undirected Graph</th>
-<th colspan="2">Directed Graph</
-</tr>
-<tr>
-<th></th>
-<th>Iterative Algorithm</th>
-<th>Recursive Algorithm</th>
-<th>Iterative Algorithm</th>
-<th>Recursive Algorithm</th>
-</tr>
-</thead>
 <tbody>
+
 <tr>
 <td>Has path or not</td>
 <td><a href="https://youtu.be/ZwGC60Ao6bQ?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&t=1309">video</a></td>
@@ -51,6 +38,7 @@ th>
 <td>N/A</td>
 <td>N/A</td>
 </tr>
+
 <tr>
 <td>Cycle detection</td>
 <td>❌</td>
@@ -58,6 +46,7 @@ th>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=GLxfoaZlRqs">video</a></td>
 </tr>
+
 <tr>
 <td>Find #connected components</td>
 <td>❌</td>
@@ -65,6 +54,7 @@ th>
 <td>❌</td>
 <td>❌</td>
 </tr>
+
 <tr>
 <td>Topological sort</td>
 <td><a href="https://www.youtube.com/watch?v=XMiIk1B0v-w&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8">Kahn's Algorithm</a></td>
@@ -72,6 +62,7 @@ th>
 <td></td>
 <td></td>
 </tr>
+
 </tbody>
 </table>
 
