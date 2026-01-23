@@ -6,7 +6,7 @@
 
 Following questions are based on above template just that you need to make some changes
 
-|:--------:|:------------------------:|:------------------------:|
+
 | Has path or not | [video](https://youtu.be/ZwGC60Ao6bQ?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&t=1309) | [video](https://www.youtube.com/watch?v=ZwGC60Ao6bQ&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=9) |
 | Shortest path | BFS gives shortest path only | ❌ |
 | Cycle detection | [video](https://www.youtube.com/watch?v=1ZWTKJpIvpE&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=16) | [video](https://www.youtube.com/watch?v=UPfUFoWjk5w) |
