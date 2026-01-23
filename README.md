@@ -12,5 +12,9 @@
 - Binary Tree (BT)
 - [Graph](https://www.youtube.com/playlist?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx)
   - Graph Theory
-  - {Un}Directed Unweighted Graph
-  - {Un}Directed Weighted Graph  
+  - Unweighted Graph
+    - Directed Unweighted Graph
+    - UnDirected Unweighted Graph 
+  - Weighted Graph  
+    - Directed Weighted Graph
+    - UnDirected Weighted Graph 
