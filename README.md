@@ -10,4 +10,7 @@
   - Singly Linear LL
   - Singly Circular LL
 - Binary Tree (BT)
-- [Graph](https://www.youtube.com/playlist?list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx)
+- Graph
+  - Graph Theory
+  - [Unweighted Graph (Directed / UnDirected)]()
+  - [Weighted Graph (Directed / UnDirected)](https://github.com/khetansarvesh/dsa/blob/main/graph/weighted_graph.md)
