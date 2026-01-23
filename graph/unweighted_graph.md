@@ -133,13 +133,6 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=YXVFqphuGLU&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=31">logic /code</a> </td>
 </tr>
 
-<tr>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Greek Village and Wells </td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">❌</td>
-<td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"><a href="https://www.youtube.com/watch?v=J3EVQPX9p7U&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=34">logic</a> / <a href="https://www.youtube.com/watch?v=zENu0f2VG7Y&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=35">code</a></td>
-</tr>
 </tbody>
 </table>
 
@@ -208,6 +201,53 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
 </tr>
 
+</tbody>
+</table>
+Here we cannot use DFS since only BFS gives SSSP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Template 4 : All Pair Shortest Path (APSP)
+
+<table style="text-align: center;">
+<thead>
+<tr>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Question</th>
+<th colspan="2" align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Undirected Graph</th>
+<th colspan="2" align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Directed Graph</th>
+</tr>
+<tr>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;"></th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Iterative Algorithm</th>
+<th align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">Recursive Algorithm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: SSSP</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS gives SSSP</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS</td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
+
 <tr>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">↳Rotten Oranges </td>
 <td align="center" style="text-align: center; padding: 10px; border: 1px solid #ddd;">⚪</td>
@@ -219,3 +259,6 @@ Here it is easier to think in terms of DFS so we will use only that to solve all
 </tbody>
 </table>
 Here we cannot use DFS since only BFS gives SSSP.
+
+
+
