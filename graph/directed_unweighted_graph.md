@@ -18,5 +18,4 @@ Following questions are based on above template just that you need to make some 
 | Find no of connected components | ❌ | ❌ |
 | Graph colouring problem | ❌ | ❌ |
 | Hamiltonian cycle | ❌ | ❌ |
-| Find if there exists a path of more than K length | ❌ | ❌ |
 | Snake and ladder problem (they don't ask to code) | [video]() | ❌ |
