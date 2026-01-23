@@ -28,16 +28,20 @@
 <tbody>
 <tr>
 <td>SSSP</td>
-<td>DIJKSTRA Algorithm</a> - <a href="https://www.youtube.com/watch?v=XB4MIexjvY0">Logic</a> / <a href="https://www.youtube.com/watch?v=wjxCG6dOwcY&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=9"> Code </a> (❌ -ve edges)</td>
-<td><a >Bellman Ford Algorithm - <a href="https://www.youtube.com/watch?v=FtN3BYH2Zes">Logic</a> / <a href="https://www.youtube.com/watch?v=RiWE52X5wdQ&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=10"> Code </a> </a> (✅ -ve edges)</td>
-<td><a >DIJKSTRA Algorithm</a> </td>
-<td><a >Bellman Ford Algorithm</a> </td>
+<td>
+❌ -ve edges : DIJKSTRA Algorithm</a> - <a href="https://www.youtube.com/watch?v=XB4MIexjvY0">Logic</a> / <a href="https://www.youtube.com/watch?v=wjxCG6dOwcY&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=9"> Code </a>
+
+✅ -ve edges : Bellman Ford Algorithm - <a href="https://www.youtube.com/watch?v=FtN3BYH2Zes">Logic</a> / <a href="https://www.youtube.com/watch?v=RiWE52X5wdQ&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=10"> Code </a>
+</td>
+<td>❌</td>
+<td><a >DIJKSTRA Algorithm</a> <a>Bellman Ford Algorithm</a> </td>
+<td><a >❌</a> </td>
 </tr>
 </tbody>
 </table>
 
 
-Related Questions : 
+Questions Related to Dijkstra's Algorithm : 
 
 
 
