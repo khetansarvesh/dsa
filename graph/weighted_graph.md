@@ -29,6 +29,6 @@ Related Questions :
 
 # Template 3 : All Pair Shortest Path (APSP)
 
-| Question | DP Algorithm |
+| Question | Iterative Algorithm | Recursive (DP) Algorithm |
 |:--------:|:------------------:|
-| SPSP | Floyd Warshall Algorithm - [Logic](https://www.youtube.com/watch?v=oNI0rf2P9gE) / [Code](https://www.youtube.com/watch?v=wjv-w6q4ip4) |
+| SPSP | ❌ | Floyd Warshall Algorithm - [Logic](https://www.youtube.com/watch?v=oNI0rf2P9gE) / [Code](https://www.youtube.com/watch?v=wjv-w6q4ip4) |
