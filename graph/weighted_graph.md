@@ -29,70 +29,7 @@ Related Questions :
 
 # Template 3 : All Pair Shortest Path (APSP)
 
-<style>
-.apsp-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 20px 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-}
-.apsp-table th {
-  padding: 12px;
-  text-align: center;
-  font-weight: 600;
-  border: 2px solid #2c3e50;
-}
-.apsp-table th:first-child {
-  background-color: #34495e;
-  color: white;
-}
-.apsp-table thead tr:first-child th:nth-child(2),
-.apsp-table thead tr:first-child th:nth-child(3) {
-  background-color: #3498db;
-  color: white;
-}
-.apsp-table thead tr:first-child th:nth-child(4),
-.apsp-table thead tr:first-child th:nth-child(5) {
-  background-color: #9b59b6;
-  color: white;
-}
-.apsp-table thead tr:nth-child(2) th {
-  background-color: #ecf0f1;
-  color: #2c3e50;
-  font-size: 0.9em;
-}
-.apsp-table td {
-  padding: 12px;
-  text-align: center;
-  border: 1px solid #bdc3c7;
-}
-.apsp-table tbody tr td:first-child {
-  background-color: #ecf0f1;
-  font-weight: 600;
-  color: #2c3e50;
-}
-.apsp-table tbody tr td:nth-child(2),
-.apsp-table tbody tr td:nth-child(4) {
-  background-color: #fee;
-  color: #c0392b;
-}
-.apsp-table tbody tr td:nth-child(3),
-.apsp-table tbody tr td:nth-child(5) {
-  background-color: #efe;
-  color: #27ae60;
-}
-.apsp-table a {
-  color: #2980b9;
-  text-decoration: none;
-  font-weight: 500;
-}
-.apsp-table a:hover {
-  text-decoration: underline;
-  color: #3498db;
-}
-</style>
-
-<table class="apsp-table">
+<table>
 <thead>
 <tr>
 <th>Question</th>
