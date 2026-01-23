@@ -1,8 +1,30 @@
 # Template 1 : Traversal / Searching
 
-| Question | Iterative Solution (BFS) | Recursive Solution (DFS) (preferred) |
-|:--------:|:------------------:|:------------------:|
-| Traversal / Searching | [Logic](https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2) / Code (uses queues) | [Logic](https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3) / Code (uses stacks) |
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th colspan="2">Undirected Graph</th>
+<th colspan="2">Directed Graph</th>
+</tr>
+<tr>
+<th></th>
+<th>Iterative Algorithm</th>
+<th>Recursive Algorithm</th>
+<th>Iterative Algorithm</th>
+<th>Recursive Algorithm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Traversal / Searching</td>
+<td><a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code (uses queues)</td>
+<td><a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code (uses stacks)</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 Following questions are based on above template just that you need to make some changes
 th>
@@ -33,22 +55,22 @@ th>
 <td>Cycle detection</td>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=UPfUFoWjk5w">video</a></td>
-<td>N/A</td>
-<td>N/A</td>
+<td>❌</td>
+<td><a href="https://www.youtube.com/watch?v=GLxfoaZlRqs">video</a></td>
 </tr>
 <tr>
 <td>Find #connected components</td>
 <td>❌</td>
 <td><a href="https://www.youtube.com/watch?v=rNQDP92wWFI&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=36">logic</a> / <a href="https://www.youtube.com/watch?v=tLZrercDRww&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=37">code</a></td>
-<td>N/A</td>
-<td>N/A</td>
+<td>❌</td>
+<td>❌</td>
 </tr>
 <tr>
 <td>Topological sort</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
+<td><a href="https://www.youtube.com/watch?v=XMiIk1B0v-w&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8">Kahn's Algorithm</a></td>
+<td><a href="https://www.youtube.com/watch?v=Zbbe9FYVnM4&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=7">video</a></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
