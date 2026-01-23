@@ -29,6 +29,23 @@ Related Questions :
 
 # Template 3 : All Pair Shortest Path (APSP)
 
-| Question | Iterative Algorithm | Recursive (DP) Algorithm |
-|:--------:|:------------------:|:------------------:|
-| SPSP | ❌ | Floyd Warshall Algorithm - [Logic](https://www.youtube.com/watch?v=oNI0rf2P9gE) / [Code](https://www.youtube.com/watch?v=wjv-w6q4ip4) |
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th colspan="2">Undirected Graph</th>
+</tr>
+<tr>
+<th></th>
+<th>Iterative Algorithm</th>
+<th>Recursive (DP) Algorithm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SPSP</td>
+<td>❌</td>
+<td>Floyd Warshall Algorithm - [Logic](https://www.youtube.com/watch?v=oNI0rf2P9gE) / [Code](https://www.youtube.com/watch?v=wjv-w6q4ip4)</td>
+</tr>
+</tbody>
+</table>
