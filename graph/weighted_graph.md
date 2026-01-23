@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: MCST</td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"> Prim's Algorithm <a href="https://www.youtube.com/watch?v=4ZlRH0eK-qQ">logic</a> / <a href="https://www.youtube.com/watch?v=kXiqvMykeJA&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8"> Code </a> </td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"> Prim's Algorithm -- <a href="https://www.youtube.com/watch?v=4ZlRH0eK-qQ">logic</a> / <a href="https://www.youtube.com/watch?v=kXiqvMykeJA&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=8"> Code </a> </td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">Prim's Algorithm</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">⚪</td>
