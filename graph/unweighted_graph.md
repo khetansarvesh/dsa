@@ -22,7 +22,7 @@
 <tbody>
 <tr>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">📌 TEMPLATE: Traversal / Searching</td>
-<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS -- <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">Logic</a> / Code </td>
+<td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;"> <a href="https://www.youtube.com/watch?v=dCvnjapI6ik&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=2">BFS</a> </td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">DFS -- <a href="https://www.youtube.com/watch?v=0ql7lZS2qt0&list=PLUcsbZa0qzu1EhwPcQfbDfl9VitpSUgBp&index=3">Logic</a> / Code </td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">BFS</td>
 <td align="center" style="text-align: center; padding: 10px; border: 3px solid #000; font-weight: bold;">DFS</td>
