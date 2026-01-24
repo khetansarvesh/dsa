@@ -5,5 +5,5 @@
 - Recurssion
 - Hashing
 
-# Singly Circular LL
-= Single Pointer
+# Singly Circular LL (Rarely asked topic in SWE interviews)
+- [Single Pointer]()
