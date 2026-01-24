@@ -8,7 +8,7 @@
 Topics beyound this are not really important for MLE / DS related roles : 
 - [Stack](https://github.com/khetansarvesh/dsa/tree/main/stack)
 - [Queue](https://github.com/khetansarvesh/dsa/tree/main/queue)
-- Linked List
+- [Linked List](https://github.com/khetansarvesh/dsa/tree/main/linked_list)
 - Binary Tree (BT)
 - Graph
   - [Graph Theory](https://www.youtube.com/watch?v=gX8HVzw6ZT8&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=3)
