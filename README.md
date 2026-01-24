@@ -1,10 +1,12 @@
 # dsa
 
-- Do Data Structure
+- No Data Structure
 - 1D Array
 - String
 - 2D Array / Matrix
-- Stack
+
+Topics beyound this are not really important for MLE / DS related roles : 
+- [Stack]()
 - Queue
 - Linked List
 - Binary Tree (BT)
