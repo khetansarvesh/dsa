@@ -7,8 +7,6 @@
 - Stack
 - Queue
 - Linked List
-  - Singly Linear LL
-  - Singly Circular LL
 - Binary Tree (BT)
 - Graph
   - [Graph Theory](https://www.youtube.com/watch?v=gX8HVzw6ZT8&list=PL_z_8CaSLPWcn5bKG8UMI0St2D5EmQszx&index=3)
