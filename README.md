@@ -6,8 +6,8 @@
 - 2D Array / Matrix
 
 Topics beyound this are not really important for MLE / DS related roles : 
-- [Stack]()
-- Queue
+- [Stack](https://github.com/khetansarvesh/dsa/tree/main/stack)
+- [Queue](https://github.com/khetansarvesh/dsa/tree/main/queue)
 - Linked List
 - Binary Tree (BT)
 - Graph
