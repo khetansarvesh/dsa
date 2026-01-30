@@ -1,5 +1,6 @@
 
-# 1. Iterative (1 String Input)
+# $\color{cyan}{1.\ Iterative\ (1\ String\ Input)}$
+
 Use in those questions wherein we dont need to find all possible cases
 - Pointer
     - Single Pointer
@@ -38,11 +39,11 @@ here you will find questions wherein you need to deal with all possible cases he
 
 
 
-### Dynamic Programming (DP)
+### 2.1 Dynamic Programming (DP)
 Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)]() where there are overlapping subproblems !!
 
 
-### Backtracking
+### 2.2 Backtracking
 Note that in above resursive algorithms if instead of using pass by value we use pass by reference (done using lists in python) then we will have to use [backtracking]() to solve the problem.
 - but why would someone use pass by reference? becuase it sometimes makes the problem easier to solve.
 
