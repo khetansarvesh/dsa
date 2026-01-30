@@ -24,11 +24,11 @@ Use in those questions wherein we need to find all possible cases
 
 - <ins> Single Recursive Tree </ins> : 
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solution such questions using recurssion.
-    - Leap of Faith Based Questions
+    - [Leap of Faith Based Questions]()
 
 - <ins> Dual Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-    - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
+    - [Leap of Faith Based Questions]() : use in questions wherein we don't need to print all cases.
     - [Choice / (Input-Output) Based Questions](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675) : use in questions wherein you need to print all cases. 
 
 
