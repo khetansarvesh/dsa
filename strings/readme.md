@@ -35,7 +35,7 @@ here you will find questions wherein you need to deal with all possible cases he
 
 
 
-Note that all the above recursive algorithm can be improved using <ins> Dynamic Programming (DP) </ins> where there are overlapping subproblems !!
+Note that all the above recursive algorithm can be improved using <ins> [Dynamic Programming (DP)]() </ins> where there are overlapping subproblems !!
 
 
 
