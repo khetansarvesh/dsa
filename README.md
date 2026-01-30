@@ -1,8 +1,8 @@
 # dsa
 
 - No Data Structure
-- 1D Array
-- String
+- [1D Array](https://github.com/khetansarvesh/dsa/tree/main/array)
+- [String](https://github.com/khetansarvesh/dsa/tree/main/strings)
 - 2D Array / Matrix
 
 Topics beyound this are not really important for MLE / DS related roles : 
