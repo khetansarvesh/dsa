@@ -20,7 +20,9 @@ Use in those questions wherein we dont need to find all possible cases
 
 
 # 2. Recursive (1 String Input)
-Use in those questions wherein we need to find all possible cases
+Use in those questions wherein we need to find all possible cases. Now in recurssion we know that we reduce into equivalent smaller subproblem. Now there are two ways to reduce a string into a smaller string : 
+1. Reduce from end (preferred and all the below solution are done using this)
+2. Reduce from start
 
 - <ins> Single Recursive Tree </ins> : 
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solution such questions using recurssion.
