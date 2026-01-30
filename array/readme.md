@@ -1,3 +1,4 @@
+# Iterative
 - Pointer Based Questions 
     - Single Pointer
     - Two Pointer
@@ -19,5 +20,11 @@
     - Hashing + Priority Queue
 
 - Greedy
-- Recursion
+
+
+<br><br><br>
+<br><br><br>
+
+# Recursion
+
 - DP
