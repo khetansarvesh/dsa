@@ -1,5 +1,5 @@
 
-# $\color{cyan}{1.\ Iterative\ (1\ String\ Input)}$
+# $\color{cyan}{1.\ Iterative\}$
 
 Use in those questions wherein we dont need to find all possible cases
 - Pointer
@@ -20,7 +20,7 @@ Use in those questions wherein we dont need to find all possible cases
 
 
 
-# $\color{cyan}{2.\ Recursive\ (1\ String\ Input)}$
+# $\color{cyan}{2.\ Recursive\}$
 Use in those questions wherein we need to find all possible cases. Now in recurssion we know that we reduce into equivalent smaller subproblem. Now there are two ways to reduce a string into a smaller string : 
 1. Reduce from end (preferred and most of the below solution are done using this)
 2. Reduce from start (usually not preferred but sometimes is the only option and you cant reduce from the end, why? this is usually true in questions wherein forward information presented by a string is important for the question !!)
@@ -62,7 +62,3 @@ Note that in above resursive algorithms if instead of using pass by value we use
 
 <br><br><br>
 <br><br><br>
-
-
-# $\color{cyan}{3.\ String\ Matching\ (2\ String\ Input)}$
-Use in those questions wherein we are given two strings in input.
