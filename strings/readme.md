@@ -31,7 +31,11 @@ these questions are just for learning and ideally iterative approach is the pref
 
 - <ins> >1 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-    - [Leap of Faith Based Questions]() : use in questions wherein we don't need to print all cases.
+
+    - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
+        - 2 Recursive Tree
+        - Variable Size Recursive Tree
+<br>
     - [Choice / (Input-Output) Based Questions] : use in questions wherein you need to print all cases.
         - [2 Recursive Tree](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
         - [Variable Size Recursive Tree](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4)
