@@ -29,16 +29,22 @@ Use in those questions wherein we need to find all possible cases. Now in recurs
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solution such questions using recurssion.
     - [Leap of Faith Based Questions]()
 
-- <ins> >1 Recursive Tree </ins> : 
+
+
+
+- <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-
     - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
-        - 2 Recursive Tree
-        - Variable Size Recursive Tree
+    - [Choice / (Input-Output) Based Questions](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675) : use in questions wherein you need to print all cases.
 
-    - [Choice / (Input-Output) Based Questions] : use in questions wherein you need to print all cases.
-        - [2 Recursive Tree](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
-        - [Variable Size Recursive Tree](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4)
+
+
+
+- <ins> Variable Size Recursive Tree </ins> : 
+    - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
+    - [Choice / (Input-Output) Based Questions](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) : use in questions wherein you need to print all cases.
+
+
 
 
 ## $\color{red}{2.1\ Dynamic\ Programming\ (DP)}$
