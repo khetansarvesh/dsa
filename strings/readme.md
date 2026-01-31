@@ -35,7 +35,7 @@ here you will find questions wherein you need to deal with all possible cases he
     - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
         - 2 Recursive Tree
         - Variable Size Recursive Tree
-<br>
+
     - [Choice / (Input-Output) Based Questions] : use in questions wherein you need to print all cases.
         - [2 Recursive Tree](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
         - [Variable Size Recursive Tree](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4)
