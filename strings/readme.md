@@ -59,7 +59,3 @@ Note that all the above recursive algorithm can be improved using [Dynamic Progr
 Note that in above resursive algorithms if instead of using pass by value we use pass by reference (done using lists in python) then we will have to use [backtracking](https://khetansarvesh.medium.com/backtracking-in-strings-1e2461e2856f) to solve the problem.
 - but why would someone use pass by reference? becuase it sometimes makes the problem easier to solve.
 - Mostly Backtracking is found to be used in those questions wherein we have variable size recursion tree.
-
-
-<br><br><br>
-<br><br><br>
