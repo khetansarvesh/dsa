@@ -35,7 +35,7 @@ Use in those questions wherein we need to find all possible cases. Now in recurs
 ## $\color{red}{2.1\ Recursion}$
 
 - <ins> 1 Recursive Tree </ins> : 
-these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solution such questions using recurssion.
+these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solving such questions using recurssion.
     - [Leap of Faith Based Questions]()
 
 
