@@ -3,7 +3,7 @@
 - [No Data Structure](https://github.com/khetansarvesh/dsa/tree/main/no_data_structure)
 - [1D Array](https://github.com/khetansarvesh/dsa/tree/main/array)
 - [String](https://github.com/khetansarvesh/dsa/tree/main/strings)
-- 2D Array / Matrix
+- [2D Array / Matrix](https://github.com/khetansarvesh/dsa/tree/main/matrix)
 
 Topics beyound this are not really important for MLE / DS related roles : 
 - [Stack](https://github.com/khetansarvesh/dsa/tree/main/stack)

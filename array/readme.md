@@ -1,4 +1,6 @@
-# Iterative
+There is a proof which shows that any problem can be solved via both iterative approach and recursive approach. But in some problems its easiler to think the iterative approach while in some problem it is easier to think the recursive approach !!
+
+# $\color{cyan}{1.\ Iterative\}$
 Use in those questions wherein we DONT need to find all possible cases.
 
 - Pointer Based Questions 
@@ -27,13 +29,13 @@ Use in those questions wherein we DONT need to find all possible cases.
 <br><br><br>
 <br><br><br>
 
-# Recursion
+## $\color{red}{2.1\ Recursion}$
 
 Use in those questions wherein we need to find all possible cases. 
 
-Now in recurssion we know that we reduce into equivalent smaller subproblem. Now there are two ways to reduce a string into a smaller string : 
+Now in recurssion we know that we reduce into equivalent smaller subproblem. Now there are two ways to reduce an array into a smaller array : 
 1. Reduce from end (preferred and most of the below solution are done using this)
-2. Reduce from start (usually not preferred but sometimes is the only option and you cant reduce from the end, why? this is usually true in questions wherein forward information presented by a string is important for the question !!)
+2. Reduce from start
 
 
 ## $\color{red}{2.1\ Recursion}$
@@ -42,15 +44,9 @@ Now in recurssion we know that we reduce into equivalent smaller subproblem. Now
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solving such questions using recurssion.
     - [Leap of Faith Based Questions]()
 
-
-
-
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
     - [Leap of Faith Based Questions]()
-
-
-
 
 - <ins> Variable Size Recursive Tree </ins> : 
     - [Leap of Faith Based Questions]()
