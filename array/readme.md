@@ -64,23 +64,23 @@ Now in recurssion we know that we reduce into equivalent smaller subproblem. Now
 
 - <ins> 1 Recursive Tree </ins> : 
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solving such questions using recurssion.
-    - [Natural Decomposition Based Questions (leap of faith approach)]()
+    - [Natural Decomposition Based Questions (leap of faith approach)](https://skhetan.substack.com/p/single-recursive-tree-arrays)
 
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-    - [Natural Decomposition Based Questions (leap of faith approach)]()
-        - Complete Recursion
+    - <ins> Natural Decomposition Based Questions (leap of faith approach) </ins>
+        - [Complete Recursion](https://skhetan.substack.com/p/complete-recursion-in-dual-recursive)
         - Controlled Recursion
     - <ins> Choice Based Decomposition Questions (leap of faith approach) </ins>
         - [Complete Recursion](https://skhetan.substack.com/p/two-way-complete-recursion-choice)
         - [Controlled Recursion](https://skhetan.substack.com/p/two-way-controlled-recursion-choice)
 
 - <ins> Variable Size Recursive Tree </ins> : 
-    - [Natural Decomposition Based Questions (leap of faith approach)]()
+    - <ins> Natural Decomposition Based Questions (leap of faith approach) </ins>
         - Complete Recursion
         - Controlled Recursion
-    - [Choice Based Decomposition Questions (leap of faith approach)]()
-        - Complete Recursion
+    - <ins> Choice Based Decomposition Questions (leap of faith approach) </ins>
+        - [Complete Recursion](https://khetansarvesh.medium.com/uniform-recursion-in-arrays-a5a08d473378)
         - Controlled Recursion
 
 
