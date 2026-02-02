@@ -35,7 +35,7 @@ here you will find questions wherein you need to deal with all possible cases he
 Now in all the above problem we broke a bigger problem into a smaller problem (top-down approach) and solved it using recurssion. But there is this special 'rare' problem ([Tower Of Hanoi](https://skhetan.substack.com/p/tower-of-hanoi)) wherein we go from a smaller problem to a larger problem (bottom - up approach).
 
 
-Refer this pdf to learn how to calculate time complexity for recursive algorithms.
+Refer this [pdf](https://github.com/khetansarvesh/dsa/blob/main/no_data_structure/recursive_time_complexity.pdf) to learn how to calculate time complexity for recursive algorithms.
 
 
 ## $\color{red}{2.2\ Dynamic\ Programming\ (DP)}$
