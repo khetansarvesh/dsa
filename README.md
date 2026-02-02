@@ -1,6 +1,6 @@
 # dsa
 
-- No Data Structure
+- [No Data Structure](https://github.com/khetansarvesh/dsa/tree/main/no_data_structure)
 - [1D Array](https://github.com/khetansarvesh/dsa/tree/main/array)
 - [String](https://github.com/khetansarvesh/dsa/tree/main/strings)
 - 2D Array / Matrix
