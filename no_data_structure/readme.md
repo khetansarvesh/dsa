@@ -1,6 +1,7 @@
+There is a proof which shows that any problem can be solved via both iterative approach and recursive approach. But in some problems its easiler to think the iterative approach while in some problem it is easier to think the recursive approach !!
 
 # $\color{cyan}{1.\ Iterative\}$
-
+Use in those questions wherein we DONT need to find all possible cases.
 
 
 
