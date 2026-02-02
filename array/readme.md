@@ -69,11 +69,19 @@ these questions are just for learning and ideally iterative approach is the pref
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
     - [Natural Decomposition Based Questions (leap of faith approach)]()
-    - [Choice Based Decomposition Questions (leap of faith approach)]()
+        - Complete Recursion
+        - Controlled Recursion
+    - <ins> Choice Based Decomposition Questions (leap of faith approach) </ins>
+        - [Complete Recursion](https://skhetan.substack.com/p/two-way-complete-recursion-choice)
+        - [Controlled Recursion](https://skhetan.substack.com/p/two-way-controlled-recursion-choice)
 
 - <ins> Variable Size Recursive Tree </ins> : 
     - [Natural Decomposition Based Questions (leap of faith approach)]()
+        - Complete Recursion
+        - Controlled Recursion
     - [Choice Based Decomposition Questions (leap of faith approach)]()
+        - Complete Recursion
+        - Controlled Recursion
 
 
 ## $\color{red}{2.2\ Dynamic\ Programming\ (DP)}$
