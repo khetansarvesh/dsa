@@ -29,7 +29,29 @@ Use in those questions wherein we DONT need to find all possible cases.
 <br><br><br>
 <br><br><br>
 
-## $\color{red}{2.1\ Recursion}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# $\color{cyan}{2.\ Recursive\}$
 
 Use in those questions wherein we need to find all possible cases. 
 
