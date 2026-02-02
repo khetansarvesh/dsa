@@ -64,15 +64,16 @@ Now in recurssion we know that we reduce into equivalent smaller subproblem. Now
 
 - <ins> 1 Recursive Tree </ins> : 
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solving such questions using recurssion.
-    - [Leap of Faith Based Questions]()
+    - [Natural Decomposition Based Questions (leap of faith approach)]()
 
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-    - [Leap of Faith Based Questions]()
+    - [Natural Decomposition Based Questions (leap of faith approach)]()
+    - [Choice Based Decomposition Questions (leap of faith approach)]()
 
 - <ins> Variable Size Recursive Tree </ins> : 
-    - [Leap of Faith Based Questions]()
-
+    - [Natural Decomposition Based Questions (leap of faith approach)]()
+    - [Choice Based Decomposition Questions (leap of faith approach)]()
 
 
 ## $\color{red}{2.2\ Dynamic\ Programming\ (DP)}$
