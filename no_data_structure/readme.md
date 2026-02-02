@@ -39,4 +39,4 @@ Refer this [pdf](https://github.com/khetansarvesh/dsa/blob/main/no_data_structur
 
 
 ## $\color{red}{2.2\ Dynamic\ Programming\ (DP)}$
-Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)]() where there are overlapping subproblems !! It helps reduce exponential time complexity (eg 2^N) to polynomial time complexity (eg N^2)
+Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)](https://skhetan.substack.com/p/dynamic-programming-dp) where there are overlapping subproblems !! It helps reduce exponential time complexity (eg 2^N) to polynomial time complexity (eg N^2)
