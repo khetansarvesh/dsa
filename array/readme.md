@@ -85,4 +85,4 @@ here you will find questions wherein you need to deal with all possible cases he
 
 
 ## $\color{red}{2.2\ Dynamic\ Programming\ (DP)}$
-Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)]() where there are overlapping subproblems !!
+Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)](https://skhetan.substack.com/p/array-dynamic-programming-dp) where there are overlapping subproblems !!
