@@ -74,6 +74,8 @@ here you will find questions wherein you need to deal with all possible cases he
     - <ins> Choice Based Decomposition Questions (leap of faith approach) </ins>
         - [Complete Recursion](https://skhetan.substack.com/p/two-way-complete-recursion-choice)
         - [Controlled Recursion](https://skhetan.substack.com/p/two-way-controlled-recursion-choice)
+            - Bounded
+            - Unbounded 
 
 - <ins> Variable Size Recursive Tree </ins> : 
     - <ins> Natural Decomposition Based Questions (leap of faith approach) </ins>

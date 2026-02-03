@@ -43,7 +43,10 @@ here you will find questions wherein you need to deal with all possible cases he
     - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
         - Complete Recursion
         - Controlled Recursion
-    - [Choice / (Input-Output) Based Questions](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675) : use in questions wherein you need to print all cases.
+    - Choice Based Decomposition : 
+        - Complete Recursion
+        - [Controlled Recursion](https://skhetan.substack.com/p/controlled-recursion-in-strings)
+    - [Choice Based Decomposition + Input-Output](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675) : use in questions wherein you need to print all cases.
         - Complete Recursion
         - Controlled Recursion
 
@@ -52,7 +55,8 @@ here you will find questions wherein you need to deal with all possible cases he
 
 - <ins> Variable Size Recursive Tree </ins> : 
     - [Leap of Faith Based Questions]() : use in questions wherein we don't need to print all cases.
-    - [Choice / (Input-Output) Based Questions](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) : use in questions wherein you need to print all cases.
+    - Choice Based Decomposition : 
+    - [Choice Based Decomposition + Input-Output](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) : use in questions wherein you need to print all cases.
 
 
 
