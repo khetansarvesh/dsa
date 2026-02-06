@@ -54,7 +54,7 @@ here you will find questions wherein you need to deal with all possible cases he
 
 
 - <ins> Variable Size Recursive Tree </ins> : 
-    - [Leap of Faith Based Questions]() : use in questions wherein we don't need to print all cases.
+    - [Leap of Faith Based Questions](https://medium.com/@khetansarvesh/variable-size-recursion-strings-23fa9fca5193) : use in questions wherein we don't need to print all cases.
     - Choice Based Decomposition : 
     - [Choice Based Decomposition + Input-Output](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) : use in questions wherein you need to print all cases.
 
