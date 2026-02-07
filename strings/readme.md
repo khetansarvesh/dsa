@@ -32,31 +32,36 @@ Now in recurssion we know that we reduce into equivalent smaller subproblem. Now
 
 - <ins> 1 Recursive Tree </ins> : 
 these questions are just for learning and ideally iterative approach is the preferred solution here. Hence you might not find here questions wherein you need to deal with all possible cases and so its okay if you dont think of solving such questions using recurssion.
-    - [Leap of Faith Based Questions](https://khetansarvesh.medium.com/string-recursion-toy-problems-1343a06e5957)
-    - [Input-Ouput Based Questions](https://khetansarvesh.medium.com/string-recursion-input-output-method-toy-problems-6b8e4d1cb5e7)
+    - [Natural Decomposition Based Questions (leap of faith approach)](https://khetansarvesh.medium.com/string-recursion-toy-problems-1343a06e5957)
 
 
 
 
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-    - Leap of Faith Based Questions : use in questions wherein we don't need to print all cases.
-        - Complete Recursion
-        - Controlled Recursion
-    - Choice Based Decomposition : 
-        - Complete Recursion
-        - [Controlled Recursion](https://skhetan.substack.com/p/controlled-recursion-in-strings)
-    - [Choice Based Decomposition + Input-Output](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675) : use in questions wherein you need to print all cases.
-        - Complete Recursion
-        - Controlled Recursion
+    - Natural Decomposition Based Questions (leap of faith approach)
+    - Choice Based Decomposition :
+        - Leap of Faith :
+            - Complete Recursion
+            - [Controlled Recursion](https://skhetan.substack.com/p/controlled-recursion-in-strings)
+        - Input - Output : use in questions wherein you need to print all cases
+            - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
+            - Controlled Recursion 
+
+
 
 
 
 
 - <ins> Variable Size Recursive Tree </ins> : 
-    - [Leap of Faith Based Questions](https://medium.com/@khetansarvesh/variable-size-recursion-strings-23fa9fca5193) : use in questions wherein we don't need to print all cases.
+    - [Natural Decomposition Based Questions (leap of faith approach)](https://medium.com/@khetansarvesh/variable-size-recursion-strings-23fa9fca5193) : 
     - Choice Based Decomposition : 
-    - [Choice Based Decomposition + Input-Output](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) : use in questions wherein you need to print all cases.
+        - Leap of Faith :
+            - Complete Recursion
+            - Controlled Recursion 
+        - Input - Output : [Choice Based Decomposition + Input-Output](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) : use in questions wherein you need to print all cases.
+            - Complete Recursion
+            - Controlled Recursion 
 
 
 
