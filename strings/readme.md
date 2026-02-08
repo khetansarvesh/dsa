@@ -56,7 +56,7 @@ here you will find questions wherein you need to deal with all possible cases he
 - <ins> Variable Size Recursive Tree </ins> : 
     - [Natural Decomposition Based Questions (leap of faith approach)](https://medium.com/@khetansarvesh/variable-size-recursion-strings-23fa9fca5193) : 
     - Choice Based Decomposition : 
-        - Leap of Faith :
+        - Leap of Faith : use in questions wherein you have two input strings
             - Complete Recursion
             - Controlled Recursion 
         - Input - Output : use in questions wherein you need to print all cases.
