@@ -67,7 +67,7 @@ here you will find questions wherein you need to deal with all possible cases he
 
 
 ## $\color{red}{2.2\ Dynamic\ Programming\ (DP)}$
-Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)]() where there are overlapping subproblems !!
+Note that all the above recursive algorithm can be improved using [Dynamic Programming (DP)](https://khetansarvesh.medium.com/strings-dp-b0135bd81379) where there are overlapping subproblems !!
 
 
 ## $\color{red}{2.3\ Backtracking}$
