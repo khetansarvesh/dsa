@@ -46,7 +46,7 @@ here you will find questions wherein you need to deal with all possible cases he
             - [Controlled Recursion](https://skhetan.substack.com/p/controlled-recursion-in-strings)
         - Input - Output : use in questions wherein you need to print all cases
             - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
-            - Controlled Recursion 
+            - [Controlled Recursion](https://khetansarvesh.medium.com/input-output-string-controlled-recursion-b9eaba0bd813) 
 
 
 
