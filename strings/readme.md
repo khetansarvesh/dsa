@@ -60,7 +60,7 @@ here you will find questions wherein you need to deal with all possible cases he
             - Complete Recursion
             - Controlled Recursion 
         - Input - Output : use in questions wherein you need to print all cases.
-            - [Complete Recursion]((https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4))
+            - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4)
             - Controlled Recursion 
 
 
