@@ -40,13 +40,12 @@ these questions are just for learning and ideally iterative approach is the pref
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
     - Natural Decomposition Based Questions (leap of faith approach)
-    - Choice Based Decomposition :
-        - Leap of Faith : use in questions wherein you have two input strings
-            - Complete Recursion
-            - [Controlled Recursion](https://skhetan.substack.com/p/controlled-recursion-in-strings)
-        - Input - Output : use in questions wherein you need to print all cases
-            - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
-            - [Controlled Recursion](https://khetansarvesh.medium.com/input-output-string-controlled-recursion-b9eaba0bd813) 
+    - Choice Based Decomposition (Leap of Faith) : use in questions wherein you have two input strings
+        - Complete Recursion
+        - [Controlled Recursion](https://skhetan.substack.com/p/controlled-recursion-in-strings)
+    - Input - Output Based Decomposition : use in questions wherein you need to print all cases
+        - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-f5b8d9d00675)
+        - [Controlled Recursion](https://khetansarvesh.medium.com/input-output-string-controlled-recursion-b9eaba0bd813) 
 
 
 
@@ -55,13 +54,12 @@ here you will find questions wherein you need to deal with all possible cases he
 
 - <ins> Variable Size Recursive Tree </ins> : 
     - [Natural Decomposition Based Questions (leap of faith approach)](https://medium.com/@khetansarvesh/variable-size-recursion-strings-23fa9fca5193) : 
-    - Choice Based Decomposition : 
-        - Leap of Faith : 
-            - Complete Recursion
-            - Controlled Recursion 
-        - Input - Output : use in questions wherein you need to print all cases.
-            - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4)
-            - Controlled Recursion 
+    - Choice Based Decomposition (Leap of Faith) : 
+        - Complete Recursion
+        - Controlled Recursion 
+    - Input - Output Based Decomposition : use in questions wherein you need to print all cases.
+        - [Complete Recursion](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4)
+        - Controlled Recursion 
 
 
 
