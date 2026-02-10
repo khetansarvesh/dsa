@@ -81,7 +81,7 @@ here you will find questions wherein you need to deal with all possible cases he
     - <ins> Natural Decomposition Based Questions (leap of faith approach) </ins>
         - Complete Recursion
         - Controlled Recursion
-    - <ins> Choice Based Decomposition Questions (leap of faith approach) </ins>
+    - <ins> Choice Based Decomposition Questions (leap of faith approach) </ins> : Used for partititioning type of questions
         - [Complete Recursion](https://khetansarvesh.medium.com/uniform-recursion-in-arrays-a5a08d473378)
         - Controlled Recursion
 
