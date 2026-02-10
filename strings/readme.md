@@ -69,7 +69,10 @@ Note that all the above recursive algorithm can be improved using [Dynamic Progr
 
 
 ## $\color{red}{2.3\ Backtracking}$
-Note that in above resursive algorithms if instead of using pass by value we use pass by reference (done using pointers) then we will have to use [backtracking](https://khetansarvesh.medium.com/backtracking-in-strings-1e2461e2856f) to solve the problem. We will see 2 example problems what we have already seen earlier to understand difference between recursion and backtracking.
+Note that in above resursive algorithms if instead of using pass by value we use pass by reference (done using pointers) then we will have to use [backtracking](https://khetansarvesh.medium.com/backtracking-in-strings-1e2461e2856f) to solve the problem. Why? Refer this video.
+
+
+We will see 2 example problems what we have already seen earlier to understand difference between recursion and backtracking.
 
 - [String Permutations](https://www.youtube.com/watch?v=EnRciMd08_g) : We saw this problem [here](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) but here we solved it without backtracking becuase we did not pass the string using pass by reference hence we did not require backtracking but now we will use pass by reference (pointers) and hence we will need backtracking !!
 
