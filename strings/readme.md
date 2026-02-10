@@ -76,6 +76,6 @@ We will see 2 example problems what we have already seen earlier to understand d
 
 - [String Permutations](https://www.youtube.com/watch?v=EnRciMd08_g) : We saw this problem [here](https://khetansarvesh.medium.com/string-recursion-input-output-method-part-2-37b3aea401d4) but here we solved it without backtracking becuase we did not pass the string using pass by reference hence we did not require backtracking but now we will use pass by reference (pointers) and hence we will need backtracking !!
 
-- [Palindrome Partitioning](https://www.youtube.com/watch?v=CzM8Y986hIk) : We saw this problem here but here we solved it without backtracking here we will solve it using backtracking since we will pass the string using pass by reference.
+- [Palindrome Partitioning](https://www.youtube.com/watch?v=CzM8Y986hIk) : We saw this problem [here](https://khetansarvesh.medium.com/variable-size-recursion-strings-23fa9fca5193) but here we solved it without backtracking here we will solve it using backtracking since we will pass the string using pass by reference.
 
 
