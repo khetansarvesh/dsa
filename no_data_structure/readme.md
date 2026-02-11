@@ -22,9 +22,9 @@ these questions are just for learning and ideally iterative approach is the pref
 
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
-    - [Natural Decomposition Based Questions (leap of faith approach)](https://skhetan.substack.com/p/two-way-recursion?open=false#%C2%A7controlled-recursion)
-        - Complete
-        - Controlled 
+    - Natural Decomposition Based Questions (leap of faith approach)
+        - [Complete](https://skhetan.substack.com/p/complete-two-way-recursion-array)
+        - [Controlled](https://skhetan.substack.com/p/two-way-recursion)
     - Choice Based Decomposition Questions (leap of faith approach)
         - [Complete](https://skhetan.substack.com/p/two-way-recursion-choices)
         - Controlled 
