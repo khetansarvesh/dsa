@@ -23,17 +23,29 @@ these questions are just for learning and ideally iterative approach is the pref
 - <ins> 2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
     - [Natural Decomposition Based Questions (leap of faith approach)](https://skhetan.substack.com/p/two-way-recursion?open=false#%C2%A7controlled-recursion)
+        - Complete
+        - Controlled 
     - [Choice Based Decomposition Questions (leap of faith approach)](https://skhetan.substack.com/p/two-way-recursion-choices)
+        - Complete
+        - Controlled 
 
 
 - <ins> >2 Recursive Tree </ins> : 
 here you will find questions wherein you need to deal with all possible cases hence you should think of recursion to solve it.
     - Natural Decomposition Based Questions (leap of faith approach)
+        - Complete
+        - Controlled 
     - [Choice Based Decomposition Questions (leap of faith approach)](https://skhetan.substack.com/p/k-way-recursion-choices)
+        - Complete
+        - Controlled 
 
 - <ins> Variable Size Recursive Tree </ins> : 
     - Natural Decomposition Based Questions (leap of faith approach)
+        - Complete
+        - Controlled 
     - Choice Based Decomposition Questions (leap of faith approach)
+        - Complete
+        - Controlled 
       
 Now in all the above problem we broke a bigger problem into a smaller problem (top-down approach) and solved it using recurssion. But there is this special 'rare' problem ([Tower Of Hanoi](https://skhetan.substack.com/p/tower-of-hanoi)) wherein we go from a smaller problem to a larger problem (bottom - up approach).
 
