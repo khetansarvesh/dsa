@@ -35,8 +35,8 @@ here you will find questions wherein you need to deal with all possible cases he
     - Natural Decomposition Based Questions (leap of faith approach)
         - Complete
         - Controlled 
-    - [Choice Based Decomposition Questions (leap of faith approach)](https://skhetan.substack.com/p/k-way-recursion-choices)
-        - Complete
+    - Choice Based Decomposition Questions (leap of faith approach)
+        - [Complete](https://skhetan.substack.com/p/k-way-recursion-choices)
         - Controlled 
 
 - <ins> Variable Size Recursive Tree </ins> : 
