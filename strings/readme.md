@@ -53,7 +53,7 @@ here you will find questions wherein you need to deal with all possible cases he
 
 
 - <ins> Variable Size Recursive Tree </ins> : 
-    - Natural Decomposition Based Questions (leap of faith approach) : 
+    - [Natural Decomposition Based Questions (leap of faith approach)](https://medium.com/p/9eca7a3e2bff?postPublishedType=initial) : 
     - Choice Based Decomposition (Leap of Faith) : Used for partititioning type of questions
         - [Complete Recursion](https://medium.com/@khetansarvesh/variable-size-recursion-strings-23fa9fca5193)
         - Controlled Recursion 
