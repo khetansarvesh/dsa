@@ -22,7 +22,7 @@ This is an optimized way to solve subarray based problems.
 - Hashing + Priority Queue
 
 ## $\color{red}{1.4\ Sliding\ Window}$
-This is an optimized way to solve subarry + min / max problems.
+This is an optimized way to solve subarry + min / max problems. These problems can be solved using two pointers in O(N^3) complexity but using sliding window this can be reduced to O(N^2).
 - <ins> Fixed Sliding Window </ins> : use when window size given in the question
     - without extra space
     - with extra space 
