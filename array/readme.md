@@ -8,24 +8,27 @@ Use in those questions wherein we DONT need to find all possible cases.
     - Two Pointer
     - Three Pointer
 
-- Prefix / Cummmulative Array : used for subarray problems
+## $\color{red}{1.2\ Prefix/\ Cummulative\ Array}$
+This is an optimized way to solve subarray based problems. 
     - Prefix Sum Array
     - Prefix Max Array
 
-- Sliding Window
+## $\color{red}{1.3\ Sliding\ Window}$
+This is an optimized way to solve subarry + min / max problems.
     - Fixed Sliding Window
     - Variable Sliding Window
 
-- Decrease and Conquere : for questions where you have sorted array
-  
-- Extra Space
-    - Stack
-    - Queue
-    - Priority Queue
-    - Hashing
-    - Hashing + Priority Queue
+## $\color{red}{1.4\ Decrease\ and\ Conquere}$
+This is an optimized way to solve questions where you have sorted array
 
-- Greedy
+## $\color{red}{1.5\ Extra\ Space}$
+- Stack
+- Queue
+- Priority Queue
+- Hashing
+- Hashing + Priority Queue
+
+## $\color{red}{1.6\ Greedy}$
 
 
 <br><br><br>
@@ -55,7 +58,7 @@ Use in those questions wherein we DONT need to find all possible cases.
 
 # $\color{cyan}{2.\ Recursive\}$
 
-Use in those questions wherein we need to find all possible cases. 
+Use in those questions wherein we need to find all possible cases. If the question says phrases like 'all possible ways' / 'subset' / 'subsequence' then for sure you need to solve it using recursion.
 
 Now in recurssion we know that we reduce into equivalent smaller subproblem. Now there are two ways to reduce an array into a smaller array : 
 1. Reduce from end (preferred and most of the below solution are done using this)
