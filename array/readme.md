@@ -27,7 +27,7 @@ This is an optimized way to solve subarry + min / max problems.
     - without extra space
     - with extra space 
 - <ins> Variable Sliding Window </ins> : used to solve problems wherein window size is not directly mentioned in the question hence the question mentions about some condition to give you a hint about the window size. Hence use this for (subarry) + (min / max) + (some condition) problems
-    - without extra space
+    - [without extra space](https://skhetan.substack.com/p/variable-sliding-window-array)
     - with extra space 
 
 ## $\color{red}{1.5\ Decrease\ and\ Conquere}$
