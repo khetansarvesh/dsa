@@ -8,7 +8,7 @@ Use in those questions wherein we DONT need to find all possible cases.
     - Two Pointer
     - Three Pointer
 
-- Prefix Array
+- Prefix / Cummmulative Array : used for subarray problems
     - Prefix Sum Array
     - Prefix Max Array
 
@@ -16,6 +16,8 @@ Use in those questions wherein we DONT need to find all possible cases.
     - Fixed Sliding Window
     - Variable Sliding Window
 
+- Decrease and Conquere : for questions where you have sorted array
+  
 - Extra Space
     - Stack
     - Queue
