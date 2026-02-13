@@ -26,7 +26,7 @@ This is an optimized way to solve subarry + min / max problems.
 - Fixed Sliding Window
     - without extra space
     - with extra space 
-- Variable Sliding Window : used to solve problems wherein window size is not directly mentioned in the question hence the question mentions about some condition to give you a hint about the window size. Hence use this for (subarry) + (min / max) + (some condition) problems
+- <ins> Variable Sliding Window </ins> : used to solve problems wherein window size is not directly mentioned in the question hence the question mentions about some condition to give you a hint about the window size. Hence use this for (subarry) + (min / max) + (some condition) problems
     - without extra space
     - with extra space 
 
