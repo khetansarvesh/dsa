@@ -23,7 +23,7 @@ This is an optimized way to solve subarray based problems.
 
 ## $\color{red}{1.4\ Sliding\ Window}$
 This is an optimized way to solve subarry + min / max problems.
-- <ins> Fixed Sliding Window <ins> : use when window size given in the question
+- <ins> Fixed Sliding Window </ins> : use when window size given in the question
     - without extra space
     - with extra space 
 - <ins> Variable Sliding Window </ins> : used to solve problems wherein window size is not directly mentioned in the question hence the question mentions about some condition to give you a hint about the window size. Hence use this for (subarry) + (min / max) + (some condition) problems
