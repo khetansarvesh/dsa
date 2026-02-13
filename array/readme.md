@@ -11,23 +11,27 @@ All iterative questions can be solved using pointer approach
 
 ## $\color{red}{1.2\ Prefix/\ Cummulative\ Array}$
 This is an optimized way to solve subarray based problems. 
-    - Prefix Sum Array
-    - Prefix Max Array
+- Prefix Sum Array
+- Prefix Max Array
 
-## $\color{red}{1.3\ Sliding\ Window}$
-This is an optimized way to solve subarry + min / max problems.
-    - Fixed Sliding Window
-    - Variable Sliding Window
-
-## $\color{red}{1.4\ Decrease\ and\ Conquere}$
-This is an optimized way to solve questions where you have sorted array
-
-## $\color{red}{1.5\ Extra\ Space}$
+## $\color{red}{1.3\ Extra\ Space}$
 - Stack
 - Queue
 - Priority Queue
 - Hashing
 - Hashing + Priority Queue
+
+## $\color{red}{1.4\ Sliding\ Window}$
+This is an optimized way to solve subarry + min / max problems.
+- Fixed Sliding Window
+    - without extra space
+    - with extra space 
+- Variable Sliding Window
+    - without extra space
+    - with extra space 
+
+## $\color{red}{1.5\ Decrease\ and\ Conquere}$
+This is an optimized way to solve questions where you have sorted array
 
 ## $\color{red}{1.6\ Greedy}$
 
