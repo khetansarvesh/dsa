@@ -3,10 +3,11 @@ There is a proof which shows that any problem can be solved via both iterative a
 # $\color{cyan}{1.\ Iterative\}$
 Use in those questions wherein we DONT need to find all possible cases.
 
-- Pointer Based Questions 
-    - Single Pointer
-    - Two Pointer
-    - Three Pointer
+## $\color{red}{1.1\ Brute\ Force\ (Pointers)}$
+All iterative questions can be solved using pointer approach
+- Single Pointer
+- Two Pointer
+- Three Pointer
 
 ## $\color{red}{1.2\ Prefix/\ Cummulative\ Array}$
 This is an optimized way to solve subarray based problems. 
