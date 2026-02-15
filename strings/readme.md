@@ -22,7 +22,7 @@ This is an optimized way to solve subarray based problems.
 
 ## $\color{red}{1.4\ Sliding\ Window}$
 - <ins> Fixed Sliding Window </ins> :
-    - without extra space
+    - [without extra space](https://skhetan.substack.com/p/fixed-sliding-window-strings)
     - with extra space 
 - <ins> Variable Sliding Window </ins> : 
     - without extra space
