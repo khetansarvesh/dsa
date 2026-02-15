@@ -24,7 +24,7 @@ This is an optimized way to solve subarray based problems.
 ## $\color{red}{1.4\ Sliding\ Window}$
 This is an optimized way to solve subarry + min / max problems. These problems can be solved using two pointers in O(N^3) complexity but using sliding window this can be reduced to O(N^2).
 - <ins> Fixed Sliding Window </ins> : use when window size given in the question
-    - without extra space
+    - [without extra space](https://skhetan.substack.com/p/fixed-sliding-window-array)
     - [with extra space](https://skhetan.substack.com/p/fixed-sliding-window-with-extra-space) 
 - <ins> Variable Sliding Window </ins> : used to solve problems wherein window size is not directly mentioned in the question hence the question mentions about some condition to give you a hint about the window size. Hence use this for (subarry) + (min / max) + (some condition) problems
     - [without extra space](https://skhetan.substack.com/p/variable-sliding-window-array)
