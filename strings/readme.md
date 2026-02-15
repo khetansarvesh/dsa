@@ -2,6 +2,45 @@
 # $\color{cyan}{1.\ Iterative\}$
 Use in those questions wherein we DONT need to find all possible cases.
 
+## $\color{red}{1.1\ Brute\ Force\ (Pointers)}$
+All iterative questions can be solved using pointer approach
+- Single Pointer
+- Two Pointer
+- Three Pointer
+
+## $\color{red}{1.2\ Prefix/\ Cummulative\ Array}$
+This is an optimized way to solve subarray based problems. 
+- Prefix Sum Array
+- Prefix Max Array
+
+## $\color{red}{1.3\ Extra\ Space}$
+- Stack
+- Queue
+- Priority Queue
+- Hashing
+- Hashing + Priority Queue
+
+## $\color{red}{1.4\ Sliding\ Window}$
+- <ins> Fixed Sliding Window </ins> :
+    - without extra space
+    - with extra space 
+- <ins> Variable Sliding Window </ins> : 
+    - without extra space
+    - with extra space 
+
+
+## $\color{red}{1.5\ Decrease\ and\ Conquere}$
+This is an optimized way to solve questions where you have sorted array
+
+## $\color{red}{1.6\ Greedy}$
+
+
+
+
+
+
+
+
 - Pointer
     - Single Pointer
     - Two Pointer
