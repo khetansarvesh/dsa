@@ -26,7 +26,7 @@ This is an optimized way to solve subarray based problems.
     - with extra space 
 - <ins> Variable Sliding Window </ins> : 
     - without extra space
-    - [with extra space]() 
+    - [with extra space](https://skhetan.substack.com/p/variable-window-size-string)
 
 
 ## $\color{red}{1.5\ Decrease\ and\ Conquere}$
