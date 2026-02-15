@@ -41,19 +41,6 @@ This is an optimized way to solve questions where you have sorted array
 
 
 
-- Pointer
-    - Single Pointer
-    - Two Pointer
-    - Three Pointer
-- Sliding Window
-    - Fixed Sized
-    - Variable Sized
-- Extra Space
-    - Stack
-    - Hashing
-
-
-
 <br><br><br>
 <br><br><br>
 
