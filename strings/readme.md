@@ -5,7 +5,7 @@ Use in those questions wherein we DONT need to find all possible cases.
 ## $\color{red}{1.1\ Brute\ Force\ (Pointers)}$
 All iterative questions can be solved using pointer approach
 - Single Pointer
-- Two Pointer
+- [Two Pointer](https://skhetan.substack.com/p/two-pointers-strings)
 - Three Pointer
 
 ## $\color{red}{1.2\ Prefix/\ Cummulative\ Array}$
