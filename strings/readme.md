@@ -28,7 +28,7 @@ All iterative questions can be solved using pointer approach
 This is an optimized way to solve questions where you have sorted strings. Some same questions [here](https://skhetan.substack.com/p/decrease-and-conquere-strings)
 
 ## $\color{red}{1.5\ Greedy}$
-
+Some sample questions are available [here](https://skhetan.substack.com/p/greedy-strings)
 
 
 
