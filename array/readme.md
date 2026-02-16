@@ -16,8 +16,11 @@ This is an optimized way to solve subarray based problems.
 
 ## $\color{red}{1.3\ Extra\ Space}$
 - Stack : Whenever O(n^2) using brute force and j is related to i in two for loops, means you can use stack to reduce time complexity to O(n)
-- Queue
-- Priority Queue
+- Queue : Sliding window problems can be further optimized using this
+- Deque : All stack and queue questions can be done using this
+- Sets : whenever O(n^2) using brute force and you have a feeling to sort then use this
+- Heap : all sets questions can be done using this
+- Priority Queue : 
 - Hashing
 - Hashing + Priority Queue
 
@@ -35,7 +38,7 @@ This is an optimized way to solve subarry + min / max problems. These problems c
 This is an optimized way to solve questions where you have sorted array
 
 ## $\color{red}{1.6\ Greedy}$
-
+Used to solve min/max problems, usually you think it will give cocrrect ans but it most of hte times give wrong ansewr. Hence dont use this technique to min / max problems
 
 <br><br><br>
 <br><br><br>
