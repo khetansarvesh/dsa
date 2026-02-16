@@ -8,7 +8,7 @@ All iterative questions can be solved using pointer approach
 
 ## $\color{red}{1.2\ Extra\ Space}$
 - Stack
-- Priority Queue
+- Priority Queue / Heap : use when we need to find Kth something
 - Hashing :
 
 
