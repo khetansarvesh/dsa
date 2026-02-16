@@ -17,12 +17,11 @@ This is an optimized way to solve subarray based problems.
 ## $\color{red}{1.3\ Extra\ Space}$
 - Stack : Whenever O(n^2) using brute force and j is related to i in two for loops, means you can use stack to reduce time complexity to O(n)
 - Queue : Sliding window problems can be further optimized using this
-- Deque : All stack and queue questions can be done using this
 - Hashing :
     - Array as Hashtable
     - Sets as Hashtable : whenever O(n^2) using brute force and you have a feeling to sort then use this
     - Maps as Hashtable : 
-- Heap : all sets questions can be done using this
+- Priority Queue / Heap : all sets questions can be done using this
 
 ## $\color{red}{1.4\ Sliding\ Window}$
 This is an optimized way to solve subarry + min / max problems. These problems can be solved using two pointers in O(N^3) complexity but using sliding window this can be reduced to O(N^2).
