@@ -10,10 +10,7 @@ All iterative questions can be solved using pointer approach
 
 ## $\color{red}{1.2\ Extra\ Space}$
 - Stack
-- Queue
-- Priority Queue
 - Hashing
-- Hashing + Priority Queue
 
 ## $\color{red}{1.3\ Sliding\ Window}$
 - <ins> Fixed Sliding Window </ins> :
