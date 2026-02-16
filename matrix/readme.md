@@ -7,7 +7,7 @@ All iterative questions can be solved using pointer approach
 - Three Pointer
 
 ## $\color{red}{1.2\ Extra\ Space}$
-- Stack
+- [Stack](https://skhetan.substack.com/p/stacks-matrix)
 - Priority Queue / Heap : use when we need to find Kth something
 - Hashing :
   - [Arrays as Hashtables](https://skhetan.substack.com/p/hashing-arrays-matrix)
