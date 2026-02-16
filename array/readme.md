@@ -16,7 +16,6 @@ This is an optimized way to solve subarray based problems.
 
 ## $\color{red}{1.3\ Extra\ Space}$
 - Stack : Whenever O(n^2) using brute force and j is related to i in two for loops, means you can use stack to reduce time complexity to O(n)
-- Queue : Sliding window problems can be further optimized using this
 - Hashing :
     - Array as Hashtable
     - Sets as Hashtable : whenever O(n^2) using brute force and you have a feeling to sort then use this
