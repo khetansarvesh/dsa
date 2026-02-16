@@ -1,10 +1,23 @@
 # 1. Iterative
 
+## $\color{red}{1.1\ Brute\ Force\ (Pointers)}$
+All iterative questions can be solved using pointer approach
+- Single Pointer
+- Two Pointer
+- Three Pointer
 
-- Extra Space
-    - Stack
-    - Pririty Queue
-    - Hashing 
+## $\color{red}{1.2\ Extra\ Space}$
+- Stack
+- Priority Queue
+- Hashing :
+
+
+## $\color{red}{1.3\ Decrease\ and\ Conquere}$
+This is an optimized way to solve questions where you have sorted matrix. Some sample questions here
+
+
+
+
 
 
 
