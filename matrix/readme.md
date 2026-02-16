@@ -8,7 +8,7 @@ All iterative questions can be solved using pointer approach
 
 ## $\color{red}{1.2\ Extra\ Space}$
 - [Stack](https://skhetan.substack.com/p/stacks-matrix)
-- Priority Queue / Heap : use when we need to find Kth something + (min/closest/smallest) problems
+- [Priority Queue / Heap](https://skhetan.substack.com/p/heap-matrix) : use when we need to find Kth something + (min/closest/smallest) problems
 - Hashing :
   - [Arrays as Hashtables](https://skhetan.substack.com/p/hashing-arrays-matrix)
   - [Maps as Hashtables (Hashmaps)](https://skhetan.substack.com/p/hashing-maps-matrix)
