@@ -20,7 +20,7 @@ This is an optimized way to solve subarray based problems.
     - Array as Hashtable
     - Sets as Hashtable : whenever O(n^2) using brute force and you have a feeling to sort then use this
     - Maps as Hashtable : 
-- Priority Queue / Heap : all sets questions can be done using this
+- Priority Queue / Heap : use when we need to find Kth something
 
 ## $\color{red}{1.4\ Sliding\ Window}$
 This is an optimized way to solve subarry + min / max problems. These problems can be solved using two pointers in O(N^3) complexity but using sliding window this can be reduced to O(N^2).
