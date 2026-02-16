@@ -8,19 +8,14 @@ All iterative questions can be solved using pointer approach
 - [Two Pointer](https://skhetan.substack.com/p/two-pointers-strings)
 - Three Pointer
 
-## $\color{red}{1.2\ Prefix/\ Cummulative\ Array}$
-This is an optimized way to solve subarray based problems. 
-- Prefix Sum Array
-- Prefix Max Array
-
-## $\color{red}{1.3\ Extra\ Space}$
+## $\color{red}{1.2\ Extra\ Space}$
 - Stack
 - Queue
 - Priority Queue
 - Hashing
 - Hashing + Priority Queue
 
-## $\color{red}{1.4\ Sliding\ Window}$
+## $\color{red}{1.3\ Sliding\ Window}$
 - <ins> Fixed Sliding Window </ins> :
     - [without extra space](https://skhetan.substack.com/p/fixed-sliding-window-strings)
     - with extra space 
@@ -29,10 +24,10 @@ This is an optimized way to solve subarray based problems.
     - [with extra space](https://skhetan.substack.com/p/variable-window-size-string)
 
 
-## $\color{red}{1.5\ Decrease\ and\ Conquere}$
-This is an optimized way to solve questions where you have sorted array
+## $\color{red}{1.4\ Decrease\ and\ Conquere}$
+This is an optimized way to solve questions where you have sorted strings. Some same questions [here](https://skhetan.substack.com/p/decrease-and-conquere-strings)
 
-## $\color{red}{1.6\ Greedy}$
+## $\color{red}{1.5\ Greedy}$
 
 
 
