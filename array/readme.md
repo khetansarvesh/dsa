@@ -15,7 +15,7 @@ This is an optimized way to solve subarray based problems.
 - Prefix Max Array
 
 ## $\color{red}{1.3\ Extra\ Space}$
-- Stack
+- Stack : Whenever O(n^2) using brute force and j is related to i in two for loops, means you can use stack to reduce time complexity to O(n)
 - Queue
 - Priority Queue
 - Hashing
