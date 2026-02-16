@@ -11,7 +11,7 @@ All iterative questions can be solved using pointer approach
 - Priority Queue / Heap : use when we need to find Kth something
 - Hashing :
   - [Arrays as Hashtables](https://skhetan.substack.com/p/hashing-arrays-matrix)
-  - Maps as Hashtables (Hashmaps)
+  - [Maps as Hashtables (Hashmaps)](https://skhetan.substack.com/p/hashing-maps-matrix)
 
 
 ## $\color{red}{1.3\ Decrease\ and\ Conquere}$
