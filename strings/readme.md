@@ -11,7 +11,7 @@ All iterative questions can be solved using pointer approach
 ## $\color{red}{1.2\ Extra\ Space}$
 - Stack
 - Hashing :
-    - Array as Hashtable
+    - [Array as Hashtable](https://skhetan.substack.com/p/hashing-strings)
 
 ## $\color{red}{1.3\ Sliding\ Window}$
 - <ins> Fixed Sliding Window </ins> :
