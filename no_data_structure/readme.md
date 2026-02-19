@@ -11,7 +11,9 @@ Use in those questions wherein we DONT need to find all possible cases.
 
 
 # $\color{cyan}{2.\ Recursive\}$
-Use in those questions wherein we need to find all possible cases.
+Use in those questions wherein we need to find all possible cases. 
+
+Here are some sample [questions](https://github.com/khetansarvesh/dsa/blob/main/no_data_structure/iterative_questions.pdf) and here is how to calculate [time complexity](https://github.com/khetansarvesh/dsa/blob/main/no_data_structure/iterative_time_complexity.pdf) of an iterative algorithm.
 
 
 ## $\color{red}{2.1\ Recursion}$
