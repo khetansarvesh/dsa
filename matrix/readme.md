@@ -2,9 +2,7 @@
 
 ## $\color{red}{1.1\ Brute\ Force\ (Pointers)}$
 All iterative questions can be solved using pointer approach
-- Single Pointer
 - Two Pointer
-- Three Pointer
 
 ## $\color{red}{1.2\ Extra\ Space}$
 - [Stack](https://skhetan.substack.com/p/stacks-matrix)
