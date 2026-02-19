@@ -14,8 +14,8 @@ All iterative questions can be solved using pointer approach
 
 ## $\color{red}{1.3\ Decrease\ and\ Conquere}$
 This is an optimized way to solve questions where you have sorted matrix. These questions can be solved via brute force approach (two pointers) in O(n^2) but since matrix is sorted we can use this information to reduce the time complexity.
-- [Questions where 'sorted' word mentioned](https://skhetan.substack.com/p/decrease-and-conquer-matrix) :
-- Questions where 'sorted' word not mentioned : 
+- [Questions where 'sorted' word mentioned](https://skhetan.substack.com/p/decrease-and-conquer-matrix)
+- [Questions where 'sorted' word not mentioned](https://skhetan.substack.com/p/decrease-and-conquer-matrix-d4c)
 
 
 
