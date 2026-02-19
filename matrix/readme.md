@@ -2,7 +2,7 @@
 
 ## $\color{red}{1.1\ Brute\ Force\ (Pointers)}$
 All iterative questions can be solved using pointer approach
-- Two Pointer : has O(n^2) or O(n^3) time complexity
+- [Two Pointer](https://skhetan.substack.com/p/two-pointers-matrix) : has O(n^2) or O(n^3) time complexity
 
 ## $\color{red}{1.2\ Extra\ Space}$
 - [Stack](https://skhetan.substack.com/p/stacks-matrix)
